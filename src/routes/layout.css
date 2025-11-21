@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/typography';
+
+:root {
+	--primary: #8e51ff;
+}
+
+@theme inline {
+	--color-primary: var(--primary);
+}
