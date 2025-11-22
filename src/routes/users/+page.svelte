@@ -3,8 +3,8 @@
 	import Card from 'src/components/screen/users/Card.svelte';
 	import LoadingPage from 'src/components/ui/LoadingPage.svelte';
 	import { getAllUsers } from 'src/service/users/users.service';
-
 	const queryResult = useQuery('users', getAllUsers);
+	
 </script>
 
 <main>

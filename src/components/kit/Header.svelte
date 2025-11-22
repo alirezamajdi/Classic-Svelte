@@ -5,7 +5,8 @@
 		{ title: 'Add user', href: '/users/add' },
 		{ title: 'blog', href: '/blog' },
 		{ title: 'Add post', href: '/blog/add' },
-		{ title: 'Earth', href: '/earth' }
+		{ title: 'Earth', href: '/earth' },
+		{ title: 'Comments', href: '/comments' }
 	];
 </script>
 
