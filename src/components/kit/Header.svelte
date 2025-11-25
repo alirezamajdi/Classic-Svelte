@@ -6,7 +6,8 @@
 		{ title: 'blog', href: '/blog' },
 		{ title: 'Add post', href: '/blog/add' },
 		{ title: 'Earth', href: '/earth' },
-		{ title: 'Comments', href: '/comments' }
+		{ title: 'Comments', href: '/comments' },
+		{ title: 'Products', href: '/products' }
 	];
 </script>
 
